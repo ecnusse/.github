@@ -1,4 +1,4 @@
-Welcome to Smart Software Engineering Lab @ ECNU.
+# Welcome to Smart Software Engineering Lab @ ECNU!
 
 
 ### List of Projects
