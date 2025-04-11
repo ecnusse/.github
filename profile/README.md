@@ -9,3 +9,4 @@ Project Name | Maintainer(s)
 <a href="https://github.com/ecnusse/HMDroidbot/">HMDroidbot</a> | <a href="https://xixianliang.github.io/resume/">Xixian Liang</a>, Bo Ma, <a href="https://ml-ming.dev/">Mengli Ming</a>  |
 <a href="https://github.com/ecnu-sa-labs/ecnu-sa-labs">ecnu-sa-labs</a> | [SA Teaching Team](https://github.com/ecnu-sa-labs/ecnu-sa-labs?tab=readme-ov-file#contributors) |
 <a href="https://github.com/ycshao12/Hydrangea">Hydrangea</a> | [Yuchen Shao](https://github.com/ycshao12) |
+<a href="https://github.com/ecnusse/MetaLoc">MetaLoc</a> | [Shan Huang](https://apochens.github.io/) |
